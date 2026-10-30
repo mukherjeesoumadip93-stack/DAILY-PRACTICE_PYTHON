@@ -1,4 +1,3 @@
-
 food=int(input("enter the food price:"))
 drinks=int(input("enter the drinks price:"))
 service=int(input("enter the service charge:"))
