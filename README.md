@@ -30,7 +30,7 @@ The main goal of this repository is to practice Python programming, improve prob
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mukherjeesoumadip93-stack/DAILY-PRACTICE_PYTHON.git
    ```
 
 2. Navigate to the project directory:
