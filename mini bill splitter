@@ -1,0 +1,12 @@
+
+food=int(input("enter the food price:"))
+drinks=int(input("enter the drinks price:"))
+service=int(input("enter the service charge:"))
+number=int(input("no. of people:"))
+
+total=(food+drinks+service)
+
+print("total cost is:",total)
+print("amount per person:",total/number)
+print("total cost after discount:",total-(total*0.15))
+print("amount per person after discount:",(total-(total*0.15))/number)
